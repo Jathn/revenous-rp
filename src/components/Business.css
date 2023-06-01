@@ -1,0 +1,17 @@
+.Business li {
+    list-style-type: none;
+}
+
+.Business img {
+    margin-top: 15px;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cat {
+    font-size: 22px;
+    color: goldenrod;
+}
